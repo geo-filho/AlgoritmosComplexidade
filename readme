@@ -1,1 +1,17 @@
+# 📘 Atividades de Algoritmos e Complexidade  
 
+Este repositório foi criado para armazenar as atividades desenvolvidas na disciplina **Algoritmos e Complexidade**.  
+
+## 🎯 Objetivo  
+Reunir os exercícios e práticas realizadas ao longo da cadeira, servindo como material de estudo e consulta futura.  
+
+## 💻 Formato dos Exercícios  
+- Os códigos serão implementados e testados principalmente no **Google Colab**.  
+- Cada arquivo ou notebook representa uma atividade ou exercício proposto em aula.  
+- Os exemplos podem incluir:  
+  - Implementações de algoritmos clássicos  
+  - Análise de complexidade de tempo e espaço  
+  - Exercícios práticos de programação  
+
+## ⚡ Observação  
+Este repositório é de caráter **acadêmico**, voltado ao aprendizado e registro das atividades da disciplina.  
